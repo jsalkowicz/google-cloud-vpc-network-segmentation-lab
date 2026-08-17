@@ -1,0 +1,18 @@
+# Credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials*
+service-account*.json
+
+# Local tooling
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
